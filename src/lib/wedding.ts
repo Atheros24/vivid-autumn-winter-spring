@@ -42,7 +42,7 @@ export const WEDDING = {
   resepsi: {
     title: "Resepsi",
     date: "Kamis, 15 Oktober 2026",
-    time: "10:00 – 13:00 WIB",
+    time: "18:00 – 21:00 WIB",
     place: "Gedung Aula SMADA Situbondo",
     address: "Jl. Anggrek No. 1, Patokan, Kec. Situbondo, Kab. Situbondo",
     maps: "https://www.google.com/maps/search/?api=1&query=SMAN+2+Situbondo+Jl+Anggrek+No.1",
